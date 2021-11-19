@@ -20,7 +20,6 @@ const row = (bill) => {
 };
 
 const rows = (data) => {
-  // console.log("billsUI", data.sort((a,b) => new Date(a.date) - new Date(b.date)))
   return data && data.length
     ? data
         .sort((a, b) => new Date(b.date) - new Date(a.date))
