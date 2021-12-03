@@ -5,7 +5,7 @@ Billed est une solution SaaS destiné aux équipes RH, servant pour l'instant à
 
 ## Objectif
 
-L'objectif de ce projet est : **DDébuggez et testez un SaaS RH**
+L'objectif de ce projet est : **Débuggez et testez un SaaS RH**
 Ma mission sur ce projet était de corriger une série de bugs (repertoriés [ici](https://www.notion.so/a7a612fc166747e78d95aa38106a55ec?v=2a8d3553379c4366b6f66490ab8f0b90)), d'améliorer la couverture des tests (pour `container/NewBill.js`, `container/Bills.js` et `views/Bills`) et réaliser un scénario de test End to End pour l'interface utilisateur.
 
 ## Fabriqué avec
